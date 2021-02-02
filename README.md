@@ -1,7 +1,7 @@
 # FrontEnd Enterprise Framework ( FEEF )
 
 It's an enterprise framework that provides an approach for designing, planning, implementing and governing FrontEnd development. 
-FEEF helps organizations to modernization and standardize technologies and products in the FrontEnd part.
+FEEF helps organizations to modernize and standardize technologies and products in the FrontEnd part.
 
 
 ## FEEF Pillars
